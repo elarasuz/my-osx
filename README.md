@@ -65,7 +65,7 @@ You can achieve the same setup as mine, by manually setting up the environment (
 I can not guarantee proper installation outside of Terminal.app + Bash Shell.
 
 ```shell
-$ bash <(curl -s https://raw.githubusercontent.com/rgaidot/iterm-fish-fisherman-osx/master/install.sh)
+$ bash <(curl -s https://raw.githubusercontent.com/elarasuz/my-osx/master/install.sh)
 ```
 
 ## Manual Installation
